@@ -1,7 +1,7 @@
 {
-  "name": "Shadowsocks+V2Ray-plugin Rapid deployment",
-  "description": "Deploy Shadowsocks+V2Ray-plugin to Heroku.",
-  "keywords": ["V2ray", "Shadowsocks", "V2Ray-plugin"],
+  "name": "Shs+VR-plugin Rapid deployment",
+  "description": "Deploy Shs+VR-plugin to H.",
+  "keywords": ["V2r", "ss", "V2R-plugin"],
   "env": {
      "ENCRYPT": {
       "description": "Shadowsocks encryption method.",
@@ -13,7 +13,7 @@
     },
 
      "V2_Path": {
-      "description": "V2Ray handler path. Auto-generated with some secret value.",
+      "description": "V handler path. Auto-generated with some secret value.",
       "generator": "secret"
     },
 
