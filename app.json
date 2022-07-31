@@ -1,14 +1,14 @@
 {
-  "name": "Shs+VR-plugin Rapid deployment",
-  "description": "Deploy Shs+VR-plugin to H.",
+  "name": "app deployment",
+  "description": "Deploy app to H.",
   "keywords": ["V2r", "ss", "V2R-plugin"],
   "env": {
      "ENCRYPT": {
-      "description": "Shadowsocks encryption method.",
+      "description": "s encryption method.",
       "value": "chacha20-ietf-poly1305"
     },
      "PASSWORD": {
-      "description": "The password of shadowsocks, you can use uuid as the password (http://www.uuid.online/ online generation)",
+      "description": "The password of s, you can use uuid as the password (http://www.uuid.online/ online generation)",
       "value": "3ae5c084-e8d6-4265-8167-912cd7b75dcf"
     },
 
